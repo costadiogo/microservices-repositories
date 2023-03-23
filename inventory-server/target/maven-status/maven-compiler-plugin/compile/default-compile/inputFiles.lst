@@ -1,0 +1,6 @@
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/inventory-server/src/main/java/com/api/inventoryserver/service/InventoryService.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/inventory-server/src/main/java/com/api/inventoryserver/InventoryServerApplication.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/inventory-server/src/main/java/com/api/inventoryserver/repository/InventoryRepository.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/inventory-server/src/main/java/com/api/inventoryserver/dto/InventoryResponse.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/inventory-server/src/main/java/com/api/inventoryserver/controller/InventoryController.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/inventory-server/src/main/java/com/api/inventoryserver/model/Inventory.java

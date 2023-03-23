@@ -1,0 +1,11 @@
+com/api/orderservice/dto/InventoryResponse.class
+com/api/orderservice/model/Order.class
+com/api/orderservice/dto/OrderLineItemsDto.class
+com/api/orderservice/controller/OrderController.class
+com/api/orderservice/model/OrderLineItems.class
+com/api/orderservice/dto/OrderDto.class
+com/api/orderservice/service/OrderService.class
+com/api/orderservice/config/WebClientConfig.class
+com/api/orderservice/repository/OrderRepository.class
+com/api/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/api/orderservice/OrderServiceApplication.class

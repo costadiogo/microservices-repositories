@@ -1,0 +1,7 @@
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/product-service/src/main/java/com/api/productservice/repository/ProductRepository.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/product-service/src/main/java/com/api/productservice/model/Product.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/product-service/src/main/java/com/api/productservice/dto/ProductDTO.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/product-service/src/main/java/com/api/productservice/service/ProductService.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/product-service/src/main/java/com/api/productservice/dto/ProductResponse.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/product-service/src/main/java/com/api/productservice/ProductServiceApplication.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/product-service/src/main/java/com/api/productservice/controller/ProductController.java

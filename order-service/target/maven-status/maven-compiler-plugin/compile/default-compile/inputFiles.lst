@@ -1,0 +1,10 @@
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/OrderServiceApplication.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/dto/OrderLineItemsDto.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/dto/InventoryResponse.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/controller/OrderController.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/model/OrderLineItems.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/model/Order.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/dto/OrderDto.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/service/OrderService.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/repository/OrderRepository.java
+/home/diogo/Projects/Spring/microservices/microservices-repositories/microservices-parents/order-service/src/main/java/com/api/orderservice/config/WebClientConfig.java
