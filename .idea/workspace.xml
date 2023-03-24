@@ -5,85 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a26f2fc0-ed26-4b85-a994-dadab634cfe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/discovery-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/api/discoveryserver/DiscoveryServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-server/src/test/java/com/api/discoveryserver/DiscoveryServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/api/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/banner.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/src/main/java/com/api/inventoryserver/InventoryServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/src/main/java/com/api/inventoryserver/InventoryServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/src/main/resources/ banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/src/main/resources/ banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/ banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/ banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/InventoryServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/InventoryServerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/controller/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/controller/InventoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/dto/InventoryResponse$InventoryResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/dto/InventoryResponse$InventoryResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/dto/InventoryResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/dto/InventoryResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/model/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/model/Inventory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/repository/InventoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/repository/InventoryRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/classes/com/api/inventoryserver/service/InventoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/inventory-server-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/inventory-server-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/surefire-reports/TEST-com.api.inventoryserver.InventoryServerApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/surefire-reports/com.api.inventoryserver.InventoryServerApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-server/target/test-classes/com/api/inventoryserver/InventoryServerApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/api/orderservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/api/orderservice/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/api/orderservice/config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/api/orderservice/config/WebClientConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/api/orderservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/api/orderservice/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/OrderServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/OrderServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/config/WebClientConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/config/WebClientConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/InventoryResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/InventoryResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/OrderDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/OrderDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/OrderLineItemsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/dto/OrderLineItemsDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/model/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/model/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/model/OrderLineItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/model/OrderLineItems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/repository/OrderRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/api/orderservice/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/order-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/order-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/order-service-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/order-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/api/productservice/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/api/productservice/ProductServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/ProductServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/ProductServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/controller/ProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductDTO$ProductDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductDTO$ProductDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductResponse$ProductResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductResponse$ProductResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/dto/ProductResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/model/Product$ProductBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/model/Product$ProductBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/repository/ProductRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/com/api/productservice/service/ProductService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/product-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/product-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/product-service-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/product-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/TEST-com.api.productservice.ProductServiceApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/com.api.productservice.ProductServiceApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/test-classes/com/api/productservice/ProductServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/test-classes/com/api/productservice/ProductServiceApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -163,6 +93,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.InventoryServerApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.api.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiscoveryServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.api.discoveryserver.DiscoveryServerApplication" />
       <module name="discovery-server" />
@@ -234,21 +177,13 @@
       </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="order-service: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
-      <deployment type="docker-compose.yml">
-        <settings>
-          <option name="sourceFilePath" value="order-service/docker-compose.yml" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ApiGatewayApplication" />
         <item itemvalue="Application.InventoryServerApplication" />
         <item itemvalue="Application.OrderServiceApplication" />
-        <item itemvalue="Application.DiscoveryServerApplication" />
         <item itemvalue="Application.ProductServiceApplication" />
-        <item itemvalue="Docker.order-service: Compose Deployment" />
+        <item itemvalue="Application.DiscoveryServerApplication" />
       </list>
     </recent_temporary>
   </component>
